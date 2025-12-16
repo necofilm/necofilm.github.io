@@ -41,7 +41,7 @@ layout: default
                 </section>
                 
                 <section>
-                    <h2>Contact me on social media or email at <a href="mailto:necoentertainers@gmail.com">Email Us</a> </h2>
+                    <h2>Contact  </h2>
                     <ul class="icons">
                         {% if site.social_urls.facebook %}
                             <li>
@@ -82,6 +82,14 @@ layout: default
                             <li>
                                 <a href="{{ site.social_urls.linkedin }}" class="icon brands fa-linkedin">
                                     <span class="label">LinkedIn</span>
+                                </a>
+                            </li>
+                        {% endif %}
+
+                        {% if site.social_urls.gmail %}
+                            <li>
+                                <a href="{{ site.social_urls.gmail }}" class="icon brands fa-gmail">
+                                    <span class="label">Gmail</span>
                                 </a>
                             </li>
                         {% endif %}
