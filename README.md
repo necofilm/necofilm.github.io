@@ -1,3 +1,5 @@
+# README
+
 This website was build from a template, Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen), 
 a jekyll website for photographers. Below are the relevant setup instructions.
 
