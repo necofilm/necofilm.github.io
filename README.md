@@ -1,7 +1,7 @@
 # README
 
-This website was build from a template, Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen), 
-a jekyll website for photographers. Below are the relevant setup instructions.
+This website was build from a template, [Photography](https://github.com/rampatra/photography),  
+a jekyll website for photographers, that builds automatically, yeah! Below are the relevant setup instructions.
 
 ## Highlights
 1. Easy setup and you get a website of your own for __free__. No web hosting charges too.
