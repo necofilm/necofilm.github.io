@@ -23,6 +23,7 @@ social_urls:
   #dribbble: "https://dribbble.com/"
   #linkedin: "https://in.linkedin.com/in/"
   #github: "https://www.github.com/necofilms"
+  gmail: ""mailto:necoentertainers@gmail.com"
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
