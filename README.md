@@ -1,7 +1,5 @@
-<img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
-
-# Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
-A jekyll website for photographers
+This website was build from a template, Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen), 
+a jekyll website for photographers. Below are the relevant setup instructions.
 
 ## Highlights
 1. Easy setup and you get a website of your own for __free__. No web hosting charges too.
