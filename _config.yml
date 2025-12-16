@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "https://necofilm.github.io/"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -19,11 +19,11 @@ footer:
 web_design: "AJ"
 
 social_urls:
-  twitter: "https://www.twitter.com/rampatra_"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  #twitter: "https://www.twitter.com/rampatra_"
+  #instagram: "https://www.instagram.com/ram_patra"
+  #dribbble: "https://dribbble.com/rampatra"
+  #linkedin: "https://in.linkedin.com/in/ram-patra"
+  github: "https://www.github.com/necofilm"
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
