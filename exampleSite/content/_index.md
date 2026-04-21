@@ -2,10 +2,6 @@
 description: Progression of Perfection Films
 lastmod: 2026-04-20
 title: POP Films
-resources:
-  - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
-    params:
-      cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:
   main:
     name: Home

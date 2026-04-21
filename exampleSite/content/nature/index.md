@@ -4,13 +4,8 @@ menus: "main"
 title: Snowboarding
 categories: ["Snowboarding"]
 weight: 3
-params:
-  featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
-  theme: dark
-  sort_order: desc
-  sort_by: Name # Exif.Date
 resources:
-  - src: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
+  - src: IMG_1596.png
     params:
       cover: true
 ---
