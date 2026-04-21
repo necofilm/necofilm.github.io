@@ -13,25 +13,13 @@ Thanks for visiting. I'd love to hear from you. Send a message below and I'll ge
 {{< rawhtml >}}
 
 <div>
-<section>
-<form 
-                        action="https://formspree.io/f/mqarvkkd"
-                        method="post" action="#">
-                        <div class="fields">
-                            <div class="field half">
-                                <input type="text" name="name" id="name" placeholder="Name" />
-                            </div>
-                            <div class="field half">
-                                <input type="text" name="email" id="email" placeholder="Email" />
-                            </div>
-                            <div class="field">
-                                <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
-                            </div>
-                        </div>
-                        <ul class="actions">
-                            <li><input type="submit" value="Send" class="primary" /></li>
-                        </ul>
-                    </form>
+<form action="https://formspree.io/f/mqarvkkd" method="post">
+<label for="email">Your Email</label>
+<input name="Email" id="email" type="email">
+<label for="message">Your Message</label>
+<input name="Message" id="message" type="message">
+<button type="submit">Submit</button>
+</form>
 </section>                
 </div>
 
