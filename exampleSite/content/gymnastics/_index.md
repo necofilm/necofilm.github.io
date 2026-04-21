@@ -1,9 +1,9 @@
 ---
 description: Gymnastics
-categories: ["Gymnastics"]
+menus: "main"
 title: Gymnastics
 weight: 1
-menus: "main"
+categories: ["Gymnastics"]
 # list pages require at least one image to be displayed.
 params:
   theme: light
