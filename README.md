@@ -7,10 +7,6 @@ A very simple and opinionated photo gallery theme for Hugo.
 
 ---
 
-![Screenshot](https://github.com/nicokaiser/hugo-theme-gallery/raw/main/images/screenshot.jpg)
-
----
-
 ## Features
 
 - Responsive design
