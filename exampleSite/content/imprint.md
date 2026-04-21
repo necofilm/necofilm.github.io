@@ -7,11 +7,13 @@ menu:
     weight: 1
 ---
 
-Add contact info here
+Thanks for visiting. I'd love to hear from you. Send a message below and I'll get back to you.
 
 
 {{< rawhtml >}}
 
+<div>
+<section>
 <form 
                         action="https://formspree.io/f/mqarvkkd"
                         method="post" action="#">
@@ -23,14 +25,15 @@ Add contact info here
                                 <input type="text" name="email" id="email" placeholder="Email" />
                             </div>
                             <div class="field">
-                                <textarea name="message" id="message" rows="4" placeholder="Share your comments or ask your questions here."></textarea>
+                                <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
                             </div>
                         </div>
                         <ul class="actions">
                             <li><input type="submit" value="Send" class="primary" /></li>
-                            <li><input type="reset" value="Reset" /></li>
                         </ul>
                     </form>
+</section>                
+</div>
 
 
 {{< /rawhtml >}}
