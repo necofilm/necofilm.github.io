@@ -8,12 +8,12 @@ params:
   theme: light
 resources:
   - src: nikko-1.png
-    params:
-      cover: true
   - src: IMG_3971.png
     title: Never too young or old to learn to skate 
   - src: IMG_3973.png
     title: SB Shellz protective gear
+    params:
+      over: true
   - src: IMG_6879.png
     title: Skateboarding convetion in Vegas  
 ---
