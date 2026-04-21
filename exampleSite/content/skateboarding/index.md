@@ -7,7 +7,7 @@ categories: ["Skateboarding"]
 params:
   theme: light
 resources:
-  - src: IMG_3973.png
+  - src: IMG_3971.png
     title: Never too young or old to learn to skate 
   - src: IMG_3973.png
     title: SB Shellz protective gear
