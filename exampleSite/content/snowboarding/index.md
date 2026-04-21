@@ -1,7 +1,7 @@
 ---
-description: Snowboarding is awesome 
+description: Our atheletes compete in sports such as gynmastics, snowboarding, skateboarding, and wakeboarding.
 menus: "main"
-title: Snowboarding
+title: Competative Athlete
 categories: ["Snowboarding"]
 weight: 3
 resources:

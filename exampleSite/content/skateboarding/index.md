@@ -1,9 +1,9 @@
 ---
-description: Skateboarding is awesome.
+description: Our professional photographs know how to capture you in your best light wether you are looking to build portfolio or get feedback on your technique. Contact us to book a session.
 menus: "main"
-title: Skateboarding
+title: Professional Photograph
 weight: 2
-categories: ["Skateboarding"]
+categories: ["photography", "skateboarding", "snowboarding"]
 params:
   theme: light
 resources:
