@@ -1,4 +1,4 @@
-copyright = "© Your Name"
+copyright = "© Nikko Kimbrough"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
@@ -9,15 +9,15 @@ title = "Gallery"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "Progression of Perfection Films"
+  title = "POP Films"
   [params.author]
     email = "user@example.com"
     name = "Nikko Kimbrough"
   [params.socialIcons]
     instagram = "https://www.instagram.com/p.o.p.films"
     github = "https://github.com/ProgressionOverPerfectionFilms"
-    youtube = "https://www.youtube.com/"
+    #youtube = "https://www.youtube.com/@ProgressionOverPerfectionFilms"
     #email = "mailto:user@example.com"
     website = "https://progressionoverperfectionfilms.github.io/"
     #mastodon = "https://example.com"
