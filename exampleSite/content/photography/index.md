@@ -1,7 +1,7 @@
 ---
 description: Our professional photographs know how to capture you in your best light wether you are looking to build portfolio or get feedback on your technique. Contact us to book a session.
 menus: "main"
-title: Professional Photography
+title: Professional Photographer
 weight: 2
 categories: ["photography", "skateboarding", "snowboarding"]
 params:
