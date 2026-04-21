@@ -1,11 +1,11 @@
 ---
 description: Our atheletes compete in sports such as gynmastics, snowboarding, skateboarding, and wakeboarding.
 menus: "main"
-title: Competative Athlete
+title: Competative Athletes
 categories: ["Snowboarding"]
 weight: 3
 resources:
-  - src: IMG_1596.png
+  - src: IMG_6774.png
     params:
       cover: true
   - src: /images/Nikko-1.png
