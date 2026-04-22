@@ -11,8 +11,3 @@ menus:
 #  build:
 #    publishResources: false # do not include full images. Also disable download
 ---
-
-
-{{< callout >}}
-**Highlighted Text** - This works with markdown.
-{{< /callout >}}
