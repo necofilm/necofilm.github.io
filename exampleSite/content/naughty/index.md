@@ -22,4 +22,4 @@ Let me please you and make your fantsies come true.
 
 
 
-<iframe src="https://www.pornhub.com/embed/69731fec1061b" frameborder="0" width=80% height="430" scrolling="no" allowfullscreen></iframe>
+{{< myiframe >}}
