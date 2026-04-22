@@ -1,7 +1,7 @@
 ---
 description: Nikko Kimbrough is a professional athlete, photographer,  massage therapist, coach, and founder of P.O.P. Films.
 lastmod: 2026-04-21
-title: Nikko Kimbrough
+title: Nikko Kimbrough Photography
 menus:
   main:
     name: Home

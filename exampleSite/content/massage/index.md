@@ -4,4 +4,5 @@ menus: "main"
 title: Massage Therapist
 categories: ["Massage"]
 weight: 3
+private: true
 ---
