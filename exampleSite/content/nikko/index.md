@@ -13,3 +13,8 @@ resources:
 ---
 
 {{< youtube ydQdOolP_1E >}}
+
+
+<div style="padding: 15px; border: 1px solid #ccc; background-color: #f9f9f9;">
+  <strong>Note:</strong> Your text here.
+</div>
