@@ -13,7 +13,7 @@ resources:
   - src: IMG_3973.png
     title: SB Shellz protective gear
     params:
-      over: true
+      cover: true
   - src: IMG_6879.png
     title: Skateboarding convetion in Vegas  
 ---
