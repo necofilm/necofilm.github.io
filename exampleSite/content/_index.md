@@ -1,7 +1,7 @@
 ---
-description: Nikko Kimbrough
+description: Nikko Kimbrough is a professional athlete, photographer,  massage therapist, and more!
 lastmod: 2026-04-21
-title: Nikko
+title: Nikko Kimbrough
 menus:
   main:
     name: Home
