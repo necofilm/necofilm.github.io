@@ -4,6 +4,15 @@ menus: "main"
 title: Only Fans
 categories: ["Massage"]
 weight: 4
+resources:
+  - src: of0.png
+    title: Silky milky rose petal bath
+  - src: of1.png
+    title: Sexy sauna time
+  - src: of3.png
+    title: Hot spring sunset
+  - src: of4.png
+    title: Balcony seduction   
 ---
 
 
