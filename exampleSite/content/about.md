@@ -7,4 +7,4 @@ menu:
     weight: 90
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Nikko Kimbrough is the founder of P.O.P films. A lifelong gymnast, Nikko excels at skate boarding, snow boarding, and wakeboarding. Whether hes behind the camera or infront, you'll be sure to find him cheering on and coaching those around him.
