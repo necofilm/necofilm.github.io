@@ -1,5 +1,5 @@
 ---
-description: Nikko Kimbrough is a professional athlete, photographer,  massage therapist, and more!
+description: Nikko Kimbrough is a professional athlete, photographer,  massage therapist, coach, and founder of Progression of Perfection (POP) Films.
 lastmod: 2026-04-21
 title: Nikko Kimbrough
 menus:
