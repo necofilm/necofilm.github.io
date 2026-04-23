@@ -19,18 +19,18 @@ resources:
 
 {{< myiframe >}}
 
-&nbsp;
+&emsp;
 
 {{< button url="https://onlyfans.com/u402216658" text="Join me on OnlyFans" >}}
 
-&nbsp;
+&emsp;
   
 {{< button2 url="https://www.pornhub.com/model/outdoor-booty-boobie" text="Watch on PornHub" >}}
 
-&nbsp;
+&emsp;
 
 {{< button3 url="https://calendly.com/necoentertainers/" text="Couples Massage Sign Up." >}}
 
-&nbsp;
+&emsp;
 
 {{< button4 url="mailto:necoentertainers@gmail.com" text="Subscribe for more content" >}}
