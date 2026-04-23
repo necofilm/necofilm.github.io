@@ -28,7 +28,7 @@ resources:
   
 {{< button2 url="https://www.pornhub.com/model/outdoor-booty-boobie" text="Watch me on PornHub" >}}
 
-{{< button3 url="https://calendly.com/necoentertainers/" text="Enjoy a Couples Massage" >}}
+{{< button url="https://calendly.com/necoentertainers/" text="Enjoy a Couples Massage" >}}
 
 {{< button4 url="mailto:necoentertainers@gmail.com" text="Subscribe for  More" >}}
 
