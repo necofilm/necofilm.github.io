@@ -1,5 +1,5 @@
 ---
-description: Need content for your Only Fans page? Nikko will make you look and feel sexy. Wether you're looking for a quick photoshoot with one outfut or day-long adventure with multiple locations, Nikko can bring your fantasy photos to life.
+description: Need content for your Only Fans page? Nikko will make you look and feel sexy. Wether you're looking for a quick photoshoot with one outfut or day-long adventure with multiple locations, Nikko can bring your fantasy photos to life. Nikko can be your photographer, model, or both, depending on your needs.
 menus: "main"
 title: Only Fans
 categories: ["Massage"]
@@ -14,8 +14,6 @@ resources:
   - src: of3.png
     title: Balcony seduction   
 ---
-
-I can be your photographer, your model, or both ;)
 
 {{< button url="https://onlyfans.com/u402216658" text="Connect on OnlyFans" >}}
   
