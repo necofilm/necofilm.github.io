@@ -8,13 +8,17 @@ description: Naughty Nikko is a sexy dancer and skilled lover who can make your 
 resources:
   - src: profile.png
     params:
-      hidden: true 
+      hidden: false 
   - src: of7.png
     params:
       hidden: true 
   - src: profile2.png
     params:
       hidden: true
+  - src: of1.png
+    title: Sexy sauna time
+    params:
+      cover: true      
 ---
 
 {{< myiframe >}}
@@ -27,3 +31,5 @@ resources:
 {{< button3 url="https://calendly.com/necoentertainers/" text="Enjoy a Couples Massage" >}}
 
 {{< button4 url="mailto:necoentertainers@gmail.com" text="Email to Learn More" >}}
+
+
