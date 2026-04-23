@@ -23,7 +23,4 @@ resources:
 
 {{< formspree >}}
 
-Let's get in touch!
-
-
-{{< button url="https://onlyfans.com/u402216658" text="Click Me!" >}}
+{{< button url="https://onlyfans.com/u402216658" text="Subscribe to Only Fans" >}}
