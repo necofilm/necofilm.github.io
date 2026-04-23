@@ -12,6 +12,9 @@ resources:
   - src: of7.png
     params:
       hidden: true 
+  - src: profile2.png
+    params:
+      hidden: true
 ---
 
 {{< myiframe >}}
