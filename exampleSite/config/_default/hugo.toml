@@ -53,3 +53,6 @@ title = "Nikko Kimbrough"
 [services]
   [services.rss]
     limit = 100
+
+[services.googleAnalytics]
+  id = 'G-VEYGTVRHVZ'
