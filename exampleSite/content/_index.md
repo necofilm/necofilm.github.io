@@ -1,7 +1,7 @@
 ---
-description: Naughty Model Nikko
+description: All About Nikko
 lastmod: 2026-04-21
-title: Nikko XXX
+title: Nikko Kimbrough
 menus:
   main:
     name: Home
@@ -11,5 +11,5 @@ menus:
 #  build:
 #    publishResources: false # do not include full images. Also disable download
 images:
-  - image/nikko-1.png
+  - images/nikko-1.png
 ---
