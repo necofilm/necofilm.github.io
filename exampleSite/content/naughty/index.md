@@ -5,16 +5,10 @@ params:
   featured: false
   private: false # show as small thing
 description: Naughty Neco is a sexy dancer and skilled lover who can make your fantasies come true.  
-resources:
-  - src: profile.png
-    params:
-      hidden: true 
+resources: 
   - src: of7.png
     params:
       hidden: true 
-  - src: profile2.png
-    params:
-      hidden: true
   - src: of1.png
     title: Sexy sauna time
     params:
