@@ -1,9 +1,6 @@
 ---
 date: 2023-01-12
 title: Naughty Neco
-params:
-  featured: false
-  private: false # show as small thing
 description: Naughty Neco is a sexy dancer and skilled lover who can make your fantasies come true.  
 weight: 1
 resources: 
