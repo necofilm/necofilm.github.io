@@ -8,7 +8,7 @@ timeout = "120s"
 title = "Neco Entertainers"
 [params]
   defaultTheme = "dark"
-  description = "Models and masseuses"
+  description = "Neco Entertainers"
   title = "Neco Entertainers"
   [params.author]
     email = "necoentertainers@gmail.com"
