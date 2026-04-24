@@ -14,7 +14,7 @@ resources:
     title: Sexy sauna time
     params:
       cover: true     
-  - src: images/ph1.png
+  - src: ph1.png
     title: Screenhot        
 ---
 
