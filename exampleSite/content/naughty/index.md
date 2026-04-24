@@ -13,7 +13,9 @@ resources:
   - src: of1.png
     title: Sexy sauna time
     params:
-      cover: true      
+      cover: true     
+  - src: images/ph1.png
+    title: Screenhot        
 ---
 
 {{< myiframe >}}
