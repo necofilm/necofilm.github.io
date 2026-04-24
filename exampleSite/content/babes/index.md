@@ -1,6 +1,6 @@
 ---
 description: What is your fantasy?
 menus: "main"
-title: Babes
+title: Beautiful Baddies
 weight: 3
 ---
