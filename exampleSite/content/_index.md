@@ -1,5 +1,5 @@
 ---
-description: Sexy Models, Dancers, Massage Therapists, Photographers, and Insturctors
+description: Fantasy Photography and Modeling
 lastmod: 2026-04-21
 title: Neco Entertainers 
 menus:
