@@ -1,23 +1,23 @@
-copyright = "© Naughty Nikko"
+copyright = "© Naughty Neco"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/Los_Angeles"
 timeout = "120s"
-title = "Nikko Kimbrough"
+title = "Naughty Neco"
 [params]
   defaultTheme = "dark"
-  description = "Professional Athlete, Photographer, Masseur, Coach"
-  title = "Nikko Kimbrough"
+  description = "Male Model"
+  title = "Naughty Neco"
   [params.author]
-    email = "popfilmsmedia@gmail.com"
-    name = "Nikko Kimbrough"
+    email = "necoentertainers@gmail.com"
+    name = "Naughty Neco"
   [params.socialIcons]
-    instagram = "https://www.instagram.com/p.o.p.films"
-    #github = "https://github.com/ProgressionOverPerfectionFilms"
-    youtube = "https://www.youtube.com/@ProgressionOverPerfectionFilms"
-    email = "mailto:popfilmsmedia@gmail.com"
+    #instagram = ""
+    #github = "https://github.com/necofilm"
+    #youtube = ""
+    email = "mailto:necoentertainers@gmail.com"
     website = "https://onlyfans.com/u402216658"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
