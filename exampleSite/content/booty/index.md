@@ -6,6 +6,8 @@ weight: 2
 resources:
   - src: of2.png
     title: Hot spring sunset
+  - src: images/ph1.png
+    title: Screenhot  
 ---
 
 {{< myiframe2 >}}
