@@ -1,18 +1,18 @@
-copyright = "© Naughty Neco"
+copyright = "© Neco Entertainers"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/Los_Angeles"
 timeout = "120s"
-title = "Naughty Neco"
+title = "Neco Entertainers"
 [params]
   defaultTheme = "dark"
-  description = "Male Model"
-  title = "Naughty Neco"
+  description = "Models and masseuses"
+  title = "Neco Entertainers"
   [params.author]
     email = "necoentertainers@gmail.com"
-    name = "Naughty Neco"
+    name = "Email"
   [params.socialIcons]
     #instagram = ""
     #github = "https://github.com/necofilm"
