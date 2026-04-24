@@ -4,9 +4,6 @@ title: Naughty Neco
 description: Naughty Neco is a sexy dancer and skilled lover who can make your fantasies come true.  
 weight: 1
 resources: 
-  - src: of7.png
-    params:
-      hidden: true 
   - src: of1.png
     title: Sexy sauna time
     params:
