@@ -1,10 +1,10 @@
 ---
 date: 2023-01-12
-title: Naughty Nikko
+title: Naughty Neco
 params:
   featured: false
   private: false # show as small thing
-description: Naughty Nikko is a sexy dancer and skilled lover who can make your fantasies come true.  
+description: Naughty Neco is a sexy dancer and skilled lover who can make your fantasies come true.  
 resources:
   - src: profile.png
     params:
@@ -32,7 +32,7 @@ resources:
 
 {{< button4 url="mailto:necoentertainers@gmail.com" text="Subscribe for  More" >}}
 
-{{< button url="https://account.venmo.com/u/Nikolas-Kimbrough" text="Venmo Me" >}}
+
 
 
 
